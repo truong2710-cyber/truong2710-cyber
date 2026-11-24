@@ -18,9 +18,9 @@ MSc student in **Data & AI** at **Institut Polytechnique de Paris**. My research
 
 | Paper | Venue | Code |
 |---|---|---|
-| Attention-Based Prototype Calibration for Multi-Rater Few-Shot Medical Image Segmentation | **MICCAI 2026** | [JAPC](https://github.com/truong2710-cyber/JAPC) |
+| Attention-Based Prototype Calibration for Multi-Rater Few-Shot Medical Image Segmentation | MICCAI 2026 | [JAPC](https://github.com/truong2710-cyber/JAPC) |
 | Low-Rank Prompt Adaptation for Open-Vocabulary Object Detection | ICCV 2025 Workshop | [PromptAdaptOVD](https://github.com/cvlab-stonybrook/PromptAdaptOVD) |
-| Efficiency-preserving Scene-adaptive Object Detection | **BMVC 2024** | [scenes100/moe](https://github.com/cvlab-stonybrook/scenes100/tree/main/moe) |
+| Efficiency-preserving Scene-adaptive Object Detection | BMVC 2024 | [scenes100/moe](https://github.com/cvlab-stonybrook/scenes100/tree/main/moe) |
 | SPARTA-GEMSTONE: Efficient Node Placement in 3D WSNs under Q-Coverage and Q-Connectivity | J. Network & Computer Applications 2025 | [SPARTA-GEMSTONE](https://github.com/truong2710-cyber/SPARTA-GEMSTONE) |
 | Striking the Perfect Balance: Multi-objective Optimization with Harmony Search | J. Network & Computer Applications 2024 | [HSA](https://github.com/truong2710-cyber/HSA) |
 | Node Placement Optimization under Q-Coverage and Q-Connectivity Constraints in WSNs | J. Network & Computer Applications 2023 | [GLA-CMFA](https://github.com/truong2710-cyber/GLA-CMFA) |
